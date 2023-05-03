@@ -1,0 +1,23 @@
+{
+  "name": "merge-rebase",
+  "version": "1.0.0",
+  "description": "introduction_merge_rebase",
+  "main": "index.js",
+  "dependencies": {
+    "gitmoji-cli": "^8.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KleilsonSantos/merge-rebase.git"
+  },
+  "author": "Kleilson Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KleilsonSantos/merge-rebase/issues"
+  },
+  "homepage": "https://github.com/KleilsonSantos/merge-rebase#readme"
+}
